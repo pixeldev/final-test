@@ -1,3 +1,9 @@
+/**
+ * Nombres: González Garcés Rodrigo y Miranda San Martin Angel
+ * Grupo: 2BV2
+ * Carrera: Ingeniería en Inteligencia Artificial
+ * Última fecha de modificación: 22/12/2023 - 14:00
+ */
 #ifndef FINAL_TEST_DOUBLE_CIRCULAR_LINKED_LIST_H
 #define FINAL_TEST_DOUBLE_CIRCULAR_LINKED_LIST_H
 
