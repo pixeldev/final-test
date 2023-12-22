@@ -76,7 +76,6 @@ void sortBySelectionDoubleCircularLinkedList(DoubleCircularLinkedList *list) {
 
 void printDoubleCircularLinkedList(DoubleCircularLinkedList list) {
     DoubleCircularLinkedList temp = list->next;
-    char c;
     while (temp != list) {
         printTreeNodeData(temp->data.treeNode->data);
         temp = temp->next;
